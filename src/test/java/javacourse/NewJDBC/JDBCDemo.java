@@ -55,6 +55,8 @@ public class JDBCDemo {
 		
 		con.close();
 		System.out.println("Connection is closed");
+		System.out.println("Testing Done");
+		System.out.println("Go Home");
 	}
 
 }
